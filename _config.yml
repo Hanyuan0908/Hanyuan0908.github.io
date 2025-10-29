@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Hanyuan Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Astronomy at University of Cambridge"
+  bio              : "PhD student in Astronomy working on Galaxy evolution"
   location         : "Cambridge, UK"
-  employer         : "Institute of Astronomy, University of Cambridge"
+  employer         : "University of Cambridge"
   uri              : # URL
   email            : "hz420@cam.ac.uk" 
 
@@ -40,10 +40,10 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-6898-0927"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  Nasa/ADS        : "https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0005-6898-0927&sort=date+desc"
+  Nasa/ADS         : "https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0005-6898-0927&sort=date+desc"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

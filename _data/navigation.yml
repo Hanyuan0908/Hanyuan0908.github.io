@@ -33,12 +33,11 @@
 #     url: /markdown/
 
 main:
-  - title: "About Me"
-    url: /about_me/
+
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /publications/
+    url: /papers/
   - title: "Talks"
     url: /talks/
   - title: "CV"

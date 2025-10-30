@@ -1,8 +1,7 @@
 ---
-layout: page
+permalink: /papers/
 title: "Publications"
 author_profile: true
-permalink: /papers/
 ---
 
 ---
